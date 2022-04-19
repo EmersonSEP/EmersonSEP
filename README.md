@@ -1,5 +1,9 @@
 ### Olá 👋
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
+
 <!--
 **EmersonSEP/EmersonSEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
